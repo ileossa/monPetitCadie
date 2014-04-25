@@ -1,4 +1,97 @@
 #{extends 'main.html' /}
 #{set title:'Home' /}
 Hello world, this is first test
-#{welcome /}
+<img src="/public/images/favicon.png">
+
+
+
+    <!--[if lt IE 7]>
+        <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+    <![endif]-->
+
+	<!--==========================================================================
+	     Header Unit (LOGO & Slogan)
+	    ==========================================================================-->
+	<div class="row-fluid">
+		<div class="span12 slogan text-center">
+			<div class="well well-sm login">
+				<form class="navbar-form navbar-left" role="search">
+				  <div class="form-group">
+				    <input type="text" class="form-control" placeholder="User">
+				    <input type="text" class="form-control" placeholder="Password">
+				    <button type="submit" class="btn btn-default">Submit</button>
+				  </div>  				
+				</form>  			
+	  		</div>
+			<img class="logo" src="/public/image/logo.png" alt="logo">
+			<h1>Mon petit cadies<br> <small>Gestionnaire de courses</small></h1>
+		</div>
+	</div>
+
+
+	<!--==========================================================================
+				Information Unit
+					-In these (two) information balloons you have to tell (in a simple way)
+						like "what are your app going to do/change?"
+	    ==========================================================================-->
+
+	<div class="row-fluid">
+
+		<div class="span4 info-container left">
+			<div class="hero-unit info">
+				<h2>Heading</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+			</div>
+		</div>
+
+	<!--==========================================================================
+				App Showcase
+					-You developed your app only for android ? Now we have 2 mobile devices
+					 instead of one, you can simply select the device by commenting out
+					 the unnecessary one.
+
+			==========================================================================-->
+	    
+		<!--<div class="span4 text-center" style="margin-top:-5%;"><img src="/public/image/iwhite.png" alt="iphone white"></div>-->
+		<div class="span4 text-center" style="margin-top:-5%;"><img src="/public/image/s4_Template.png" alt="iphone white"></div>
+		
+		
+		<!--==========================================================================-->
+		
+		
+		<div class="span4 info-container right">
+			<div class="hero-unit info">
+	  		<h2>Heading</h2>
+	  		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+			</div>
+		</div>
+
+	</div>
+
+
+	<!--==========================================================================
+	     Connect your app with url to store.
+	    ==========================================================================-->
+
+	<div class="row-fluid">
+		<div class="span12 text-center" style="margin-top:4%;">
+			<a href="https://itunes.apple.com/fr/">
+				<img class="span2 offset4" src="/public/image/app-store.png" alt="App store" style="margin-right:2%;"></a>
+			<a href="https://play.google.com/store/search?q=monPetitCaddie">
+				<img class="span2" src="/public/image/google-play.png" alt="Google play"></a>
+		</div>
+	</div>
+
+
+
+<!--==========================================================================
+     Social Network Unit
+    ==========================================================================-->
+
+<div class="row-fluid">
+	<div class="span12 text-center" style="margin-top:5%;">
+			<a class="social" href="#"><i class="icon-twitter icon-2x"></i></a>
+			<a class="social" href="#"><i class="icon-google-plus icon-2x"></i></a>
+			<a class="social" href="#"><i class="icon-facebook icon-2x"></i></a>
+	</div>
+</div>
