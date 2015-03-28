@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txtNomListe"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/background_txt"
+        android:gravity="center"
+        android:text="Nom du caddie"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/editNomListe"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_below="@id/txtNomListe"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/background_txt"
+        android:hint="Saisissez le nom du caddie"
+        android:inputType="text"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/txtModel"
+        android:layout_width="100dp"
+        android:layout_height="45dp"
+        android:layout_below="@+id/editNomListe"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="2dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/background_txt"
+        android:gravity="center"
+        android:text="Modele"
+        android:textSize="16sp" />
+
+    <Spinner
+        android:id="@+id/modelSpinner"
+        android:layout_width="120dp"
+        android:layout_height="45dp"
+        android:layout_toRightOf="@+id/txtModel"
+        android:layout_below="@+id/editNomListe"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/background_txt"
+        android:inputType="text"
+        android:textSize="11sp" />
+
+    <Button
+        android:id="@+id/btn_valider"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_below="@+id/modelSpinner"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/btn_blue"
+        android:onClick="onClickButton"
+        android:text="@string/text_btn_valider"
+        android:textColor="#ffffff"
+        android:textSize="16sp" >
+    </Button>
+
+</RelativeLayout>

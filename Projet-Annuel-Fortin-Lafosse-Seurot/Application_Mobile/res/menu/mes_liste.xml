@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.esgi.iam.mpc.MesListeActivity" >
+
+<item
+   android:id="@+id/button1"
+   android:orderInCategory="100"
+   android:title="Ajouter"
+   app:showAsAction="ifRoom"
+   android:icon="@drawable/ic_action_add"/> 
+   
+<item
+   android:id="@+id/btn_synchro_liste"
+   android:orderInCategory="100"
+   android:title="Synchroniser"
+   app:showAsAction="ifRoom"
+   android:icon="@drawable/ic_action_synchro">
+           <menu>
+            <item
+                android:id="@+id/saveListe"
+                android:orderInCategory="10"
+        		android:title="Sauvegarder mes listes"/>
+            <item
+                android:id="@+id/getListe"
+                android:orderInCategory="20"
+        		android:title="Restorer mes listes"/>
+        	</menu>
+ </item> 
+
+</menu>

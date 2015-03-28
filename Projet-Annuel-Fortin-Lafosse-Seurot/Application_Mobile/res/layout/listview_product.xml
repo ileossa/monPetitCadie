@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:layout_margin="10dp"
+    android:background="@drawable/background_txt" >
+
+
+        <TextView
+            android:id="@+id/code_produit"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:text="TextView"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/nomProduit"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:padding="5dp"
+            android:text="Produit"
+            android:textSize="17sp" >
+        </TextView>
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:focusable="false"
+            android:padding="5dp" >
+        </CheckBox>
+
+        <TextView
+            android:id="@+id/qteProduit"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginRight="20dp"
+            android:layout_toLeftOf="@+id/checkBox"
+            android:gravity="center"
+            android:textColor="#949494"
+            android:textSize="13sp" >
+        </TextView>
+
+</RelativeLayout>

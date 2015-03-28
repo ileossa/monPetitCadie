@@ -1,0 +1,97 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="com.esgi.iam.mpc.Settings$PlaceholderFragment" >
+
+    <TextView
+        android:id="@+id/textSetting1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="15dp"
+        android:text="Options utilisateur" />
+
+    <View
+        android:id="@+id/sepSetting1"
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:layout_below="@id/textSetting1"
+        android:background="#FF909090" />
+
+    <TextView
+        android:id="@+id/textUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textSetting1"
+        android:layout_marginTop="20dp"
+        android:text="Utilisateur: "
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/valueUser"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textSetting1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@+id/textUser"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/changeUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/valueUser"
+        android:layout_marginTop="10dp"
+        android:clickable="true"
+        android:onClick="onClickChangeUser"
+        android:text="Changer d&apos;utilisateur"
+        android:background="@drawable/background_txt"
+        android:textSize="15sp"  />
+
+    <TextView
+        android:id="@+id/deleteUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/changeUser"
+        android:layout_marginTop="10dp"
+        android:clickable="true"
+        android:onClick="onCLickLogout"
+        android:text="Se deconnecter"
+        android:background="@drawable/background_txt"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/textSetting2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/deleteUser"
+        android:text="Paramètre avancés" />
+
+    <View
+        android:id="@+id/sepSetting2"
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:layout_below="@id/textSetting2"
+        android:background="#FF909090" />
+
+    <TextView
+        android:id="@+id/optionMajProduit"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textSetting2"
+        android:layout_marginTop="20dp"
+        android:text="Activer la mise à jour automatique des produits"
+        android:textSize="15sp" />
+
+    <CheckBox
+        android:id="@+id/checkOption1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textSetting2"
+        android:layout_marginTop="20dp" />
+
+</RelativeLayout>

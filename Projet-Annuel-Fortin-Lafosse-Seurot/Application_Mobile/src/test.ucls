@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.6" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="com.esgi.iam.mpc.TabNavigation.PlaceholderFragment" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/TabNavigation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="293" x="1044" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.esgi.iam.mpc.MesListeActivity.PlaceholderFragment" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/MesListeActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="293" x="3439" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.esgi.iam.mpc.fragments.FavoriesFragment" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/fragments/FavoriesFragment.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="339" x="3313" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.esgi.iam.mpc.basesqlite.Utilisateur" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/basesqlite/Utilisateur.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="154" x="151" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.esgi.iam.mpc.basesqlite.DatabaseHelper" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/basesqlite/DatabaseHelper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1467" width="218" x="3772" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.esgi.iam.mpc.webservice.Promotion" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/webservice/Promotion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="216" x="345" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.esgi.iam.mpc.fragments.MyListFragment" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/fragments/MyListFragment.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="293" x="2192" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.esgi.iam.mpc.adapter.ListProductAdapter" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/adapter/ListProductAdapter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="250" x="1902" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.esgi.iam.mpc.TabNavigation" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/TabNavigation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="262" x="1330" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.esgi.iam.mpc.MainActivity" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/MainActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="208" x="2525" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.esgi.iam.mpc.GeoActivity.PlaceholderFragment" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/GeoActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="293" x="7329" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.esgi.iam.mpc.DetailCard.PlaceholderFragment" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/DetailCard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="293" x="4883" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.esgi.iam.mpc.GeolocActivity.ParserTask" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/GeolocActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="294" x="6778" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.esgi.iam.mpc.SendEmail" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/SendEmail.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="230" x="2773" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.esgi.iam.mpc.googlemap.PlaceJSONParser" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/googlemap/PlaceJSONParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="284" x="601" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.esgi.iam.mpc.PromoActivity" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/PromoActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="230" x="1632" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.esgi.iam.mpc.NewList" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/NewList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="230" x="3043" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.esgi.iam.mpc.LoginBisActivity" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/LoginBisActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="186" x="5900" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.esgi.iam.mpc.NewList.PlaceholderFragment" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/NewList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="293" x="3106" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.esgi.iam.mpc.MesListeActivity" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/MesListeActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="339" x="3692" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.esgi.iam.mpc.PromoActivity.PlaceholderFragment" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/PromoActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="293" x="1628" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.esgi.iam.mpc.DetailCard" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/DetailCard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="230" x="4946" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.esgi.iam.mpc.SendEmail.PlaceholderFragment" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/SendEmail.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="293" x="2773" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.esgi.iam.mpc.MainActivity.PlaceholderFragment" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/MainActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="293" x="2440" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.esgi.iam.mpc.webservice.WebService" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/webservice/WebService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="245" x="5900" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="com.esgi.iam.mpc.CardActivity" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/CardActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="339" x="5521" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="com.esgi.iam.mpc.CardActivity.PlaceholderFragment" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/CardActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="293" x="5549" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="com.esgi.iam.mpc.LoadingScreen" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/LoadingScreen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="186" x="4450" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="com.esgi.iam.mpc.fragments.ProductFragment" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/fragments/ProductFragment.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="339" x="4071" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="com.esgi.iam.mpc.DetailActivity" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/DetailActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="230" x="6578" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="com.esgi.iam.mpc.basesqlite.ListeProduit" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/basesqlite/ListeProduit.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="156" x="2139" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="com.esgi.iam.mpc.LoginActivity" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/LoginActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="186" x="6126" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="com.esgi.iam.mpc.DetailActivity.PlaceholderFragment" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/DetailActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="293" x="6245" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="com.esgi.iam.mpc.basesqlite.Carte" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/basesqlite/Carte.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="152" x="925" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="com.esgi.iam.mpc.NewCard" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/NewCard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="265" x="5216" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="com.esgi.iam.mpc.adapter.TabsPagerAdapter" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/adapter/TabsPagerAdapter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="211" x="1377" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="com.esgi.iam.mpc.RegisterActivity" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/RegisterActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="186" x="6352" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="com.esgi.iam.mpc.GeolocActivity.PlacesTask" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/GeolocActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="177" x="7112" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="com.esgi.iam.mpc.basesqlite.Liste" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/basesqlite/Liste.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="173" x="1117" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="com.esgi.iam.mpc.Settings" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/Settings.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="230" x="4676" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="com.esgi.iam.mpc.adapter.ListProductAdapter.ViewHolder" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/adapter/ListProductAdapter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="138" x="1961" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="com.esgi.iam.mpc.basesqlite.Produit" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/basesqlite/Produit.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="160" x="6578" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="com.esgi.iam.mpc.GeoActivity" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/GeoActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="230" x="7329" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="com.esgi.iam.mpc.GeolocActivity" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/GeolocActivity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="234" x="6945" y="21"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="com.esgi.iam.mpc.NewCard.PlaceholderFragment" project="MPCProto" 
+    file="/MPCProto/src/com/esgi/iam/mpc/NewCard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="293" x="5216" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="46">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="47" name="db"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="49">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="45"/>  
+  </nesting>  
+  <nesting id="50">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="19"/>  
+  </nesting>  
+  <association id="51">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="52" name="db"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="55" name="db"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="58" name="db"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="60">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="13"/>  
+  </nesting>  
+  <nesting id="61">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="24"/>  
+  </nesting>  
+  <nesting id="62">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="33"/>  
+  </nesting>  
+  <association id="63">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="64" name="webservice"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="67" name="db"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="70" name="db"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="72">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <nesting id="73">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <association id="74">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="75" name="listeproduits"/>      
+      <multiplicity id="76" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="77">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="78" name="db"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="80">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="81" name="db"/>      
+      <multiplicity id="82" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="83">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="41"/>  
+  </nesting>  
+  <association id="84">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="85" name="mAdapter"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="87">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="21"/>  
+  </nesting>  
+  <nesting id="88">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="27"/>  
+  </nesting>  
+  <association id="89">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="90" name="db"/>      
+      <multiplicity id="91" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="92">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="93" name="listeproduits"/>      
+      <multiplicity id="94" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="95">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <nesting id="96">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="38"/>  
+  </nesting>  
+  <association id="97">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="98" name="db"/>      
+      <multiplicity id="99" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="100">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="101" name="db"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="103">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="104" name="produit"/>      
+      <multiplicity id="105" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="106">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="107" name="db"/>      
+      <multiplicity id="108" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="109">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="110" name="webservice"/>      
+      <multiplicity id="111" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="112">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="23"/>  
+  </nesting>  
+  <nesting id="113">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <association id="114">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="115" name="webservice"/>      
+      <multiplicity id="116" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="117">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="118" name="db"/>      
+      <multiplicity id="119" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="120">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="121" name="db"/>      
+      <multiplicity id="122" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="123">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="124" name="webservice"/>      
+      <multiplicity id="125" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="126">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="127" name="db"/>      
+      <multiplicity id="128" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

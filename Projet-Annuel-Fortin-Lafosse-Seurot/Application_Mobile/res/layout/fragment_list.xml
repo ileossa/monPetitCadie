@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    android:id="@+id/fragment_list" >
+     
+    <TextView 
+        android:id="@+id/txtview_produit_liste"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Ajouter un produit"
+        android:textSize="20dp"
+        android:layout_centerInParent="true"
+        android:visibility="invisible"/>
+    
+     <ListView
+		android:id="@+id/produits_list"
+		android:layout_margin="5dp"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"       
+		android:divider="@android:color/transparent"
+        android:dividerHeight="5.0sp" />
+     
+ 
+</RelativeLayout>

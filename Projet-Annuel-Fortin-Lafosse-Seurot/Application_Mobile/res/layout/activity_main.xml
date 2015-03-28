@@ -1,0 +1,94 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.esgi.iam.mpc.MainActivity"
+    tools:ignore="MergeRootFrame">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingTop="35dp">
+
+        <Button
+            android:id="@+id/btn_mes_liste"
+            style="@style/ButtonText"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/btn_yellow"
+            android:onClick="onClickBtnMesListes"
+            android:drawableLeft="@drawable/ic_mes_listes"
+            android:text="Mes Listes"
+            android:textSize="16sp" >
+        </Button>
+
+        <Button
+            android:id="@+id/btn_new_liste"
+            style="@style/ButtonText"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/btn_orange"
+            android:onClick="onClickBtnNewListe"
+            android:drawableLeft="@drawable/ic_new_liste"
+            android:text="Nouvelle Liste"
+            android:textSize="16sp" >
+        </Button>
+
+        <Button
+            android:id="@+id/btn_geoloc"
+            style="@style/ButtonText"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="150dp"
+            android:background="@drawable/btn_red"
+            android:onClick="onClickBtnGeoloc"
+            android:drawableLeft="@drawable/ic_geoloc"
+            android:text="Magasins proches"
+            android:textSize="16sp" >
+        </Button>
+
+        <Button
+            android:id="@+id/btn_mes_cartes"
+            style="@style/ButtonText"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/btn_purple"
+            android:onClick="onClickBtnMyCards"
+            android:drawableLeft="@drawable/ic_my_cards"
+            android:text="Cartes de fidélités"
+            android:textSize="16sp" >
+        </Button>
+
+        <Button
+            android:id="@+id/btn_promo"
+            style="@style/ButtonText"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/btn_blue"
+            android:onClick="onClickBtnPromo"
+            android:drawableLeft="@drawable/ic_promo"
+            android:text="Promotions"
+            android:textSize="16sp" >
+        </Button>
+
+        <Button
+            android:id="@+id/btn_pref"
+            style="@style/ButtonText"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/btn_green"
+            android:onClick="onClickPref"
+            android:drawableLeft="@drawable/ic_pref"
+            android:text="Préférences"
+            android:textSize="16sp" >
+        </Button>
+    </LinearLayout>
+
+</RelativeLayout>
